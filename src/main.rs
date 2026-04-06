@@ -1,6 +1,6 @@
 use macroquad::prelude::*;
 
-#[macroquad::main("Chess")]
+#[macroquad::main("Pong")]
 async fn main() {
     loop {
         clear_background(GRAY);
